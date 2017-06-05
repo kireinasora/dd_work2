@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.cpp(8): error C2065: 'locale': undeclared identifier
+main.cpp(8): error C2146: syntax error: missing ';' before identifier 'loc'
+main.cpp(8): error C3861: 'loc': identifier not found

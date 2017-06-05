@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="dd_work">
+    	<file>Resources/folder_icon.png</file>
+    </qresource>
+</RCC>
